@@ -4,7 +4,7 @@ date: 2026-11-17 09:50:00 +0200
 categories: [About]
 tags: about contributors
 description: Who has created and maintained this wiki
-author: notal
+author: wiki
 ---
 ## List of Contributors:
 

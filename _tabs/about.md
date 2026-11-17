@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+> Note: The developers of the game do not manage this wiki.
+it is managed by [WikiHaven](https://github.com/WikiHaven) and other contributors most of whom can be found on the [Contributors Page](https://monkey-piece.github.io/posts/Contributors).
+{: .prompt-warning }
+
+Currnely No Text. Help Us Inprove The Wiki!
