@@ -13,4 +13,4 @@ author: wiki
 | [WikiHaven](https://github.com/WikiHaven) | N/A | Creator |
 | Notal | Player | Contributor |
 | Vcmmason22 | Founder | information |
-| Lilpeanut | ? | N/A |
+| Lilpeanut | Co-Owner | N/A |
