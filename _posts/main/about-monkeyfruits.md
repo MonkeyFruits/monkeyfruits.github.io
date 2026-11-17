@@ -1,6 +1,6 @@
 ---
 title: About Monkey Fruits
-date: 2026-11-15 10:52:00 +0200
+date: 2026-11-17 10:24:00 +0200
 categories: [About]
 tags: about
 description: What is MonkeyFruits?
