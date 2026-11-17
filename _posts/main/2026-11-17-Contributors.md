@@ -11,4 +11,4 @@ author: notal
 | Name | Monkey Piece | Wiki |
 | :- | :- | :- |
 | [WikiHaven](https://github.com/WikiHaven) | N/A | Creator |
-| Notal(@Notarift) | Player | Contributor |
+| Notal | Player | Contributor |
